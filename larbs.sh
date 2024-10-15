@@ -7,7 +7,7 @@
 ### OPTIONS AND VARIABLES ###
 
 dotfilesrepo="https://github.com/BenDWit/voidrice.git"
-progsfile="https://raw.githubusercontent.com/LukeSmithxyz/LARBS/master/static/progs.csv"
+progsfile="https://github.com/BenDWit/archinstall/blob/main/progs.csv"
 aurhelper="yay"
 repobranch="master"
 export TERM=ansi
