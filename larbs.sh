@@ -10,7 +10,7 @@ dotfilesrepo="https://github.com/BenDWit/voidrice.git"
 progsfile="https://raw.githubusercontent.com/BenDWit/archinstall/refs/heads/main/progs.csv"
 aurhelper="yay"
 repobranch="master"
-export TERM=ansi
+export TERM=ansible
 
 rssurls="https://lukesmith.xyz/rss.xml
 https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2 \"~Luke Smith (Videos)\"
@@ -21,7 +21,8 @@ https://landchad.net/rss.xml
 https://based.cooking/index.xml
 https://artixlinux.org/feed.php \"tech\"
 https://www.archlinux.org/feeds/news/ \"tech\"
-https://github.com/LukeSmithxyz/voidrice/commits/master.atom \"~LARBS dotfiles\""
+https://github.com/LukeSmithxyz/voidrice/commits/master.atom \"~LARBS dotfiles\"
+https://bendwit.com/index.xml"
 
 ### FUNCTIONS ###
 
